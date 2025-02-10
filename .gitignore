@@ -1,3 +1,7 @@
+# Gradle 관련
+.gradle/
+build/
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
